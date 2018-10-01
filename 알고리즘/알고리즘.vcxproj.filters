@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Graph">
       <UniqueIdentifier>{d132f6ba-d6f7-4577-b965-26fb05a81110}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{4a7b5bbb-8119-46fc-8eab-8eb2603baf49}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1260.cpp">
@@ -164,6 +167,30 @@
     </ClCompile>
     <ClCompile Include="10819번.cpp">
       <Filter>소스 파일\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="k번쨰수.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1697,13913%28BFS%29.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="9019%28BFS%29.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="14226(BFS).cpp">
+      <Filter>소스 파일\Graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
